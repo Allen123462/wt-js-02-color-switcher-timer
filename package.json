@@ -2,7 +2,7 @@
   "name": "wt-js-02-color-switcher-timer",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Allen123462.github.io/wt-js-02-color-switcher-timer",
+  "homepage": "https://Allen123462.github.io/wt-js-02-color-switcher-timer/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
